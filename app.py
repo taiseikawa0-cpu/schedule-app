@@ -140,7 +140,7 @@ def time_text(row):
 st.set_page_config(page_title="スケジュール帳", page_icon="🗓", layout="centered")
 st.markdown("""
 <style>
-.block-container {max-width: 480px; padding-top: 1.5rem;}
+.block-container {max-width: 480px; padding-top: 4rem;}
 .card {background:#FFFFFF;border:1px solid #E4E0D7;border-radius:12px;padding:12px 14px;margin-bottom:8px;}
 .next {background:#1F2328;color:#FFFFFF;border-radius:16px;padding:16px 18px;margin-bottom:16px;
        display:flex;justify-content:space-between;align-items:center;}
